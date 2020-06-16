@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      "react-native-webview-bridge-updated@file:tmp/react-native-webview-bridge-updated.tgz",
+      "/Users/mac/Documents/demoWebView"
+    ]
+  ],
+  "_from": "react-native-webview-bridge-updated@file:tmp/react-native-webview-bridge-updated.tgz",
+  "_id": "react-native-webview-bridge-updated@file:tmp/react-native-webview-bridge-updated.tgz",
+  "_inBundle": false,
+  "_integrity": "sha512-hxb8AL3UvFcHVkPnrLvqGSn8oH/xyb+uDrvUz8YHrfg+G5Lwu9XzIuH/ggZ5Mh1NZi7TMWO1nIW+CZ/0I3EvzA==",
+  "_location": "/react-native-webview-bridge-updated",
+  "_phantomChildren": {
+    "loose-envify": "1.4.0"
+  },
+  "_requested": {
+    "type": "file",
+    "where": "/Users/mac/Documents/demoWebView",
+    "raw": "react-native-webview-bridge-updated@file:tmp/react-native-webview-bridge-updated.tgz",
+    "name": "react-native-webview-bridge-updated",
+    "escapedName": "react-native-webview-bridge-updated",
+    "rawSpec": "file:tmp/react-native-webview-bridge-updated.tgz",
+    "saveSpec": "file:tmp/react-native-webview-bridge-updated.tgz",
+    "fetchSpec": "/Users/mac/Documents/demoWebView/tmp/react-native-webview-bridge-updated.tgz"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": false,
+  "_spec": "file:tmp/react-native-webview-bridge-updated.tgz",
+  "_where": "/Users/mac/Documents/demoWebView",
+  "author": {
+    "name": "Ali Najafizadeh"
+  },
+  "bugs": {
+    "url": "https://github.com/wix/react-native-webview-bridge/issues"
+  },
+  "contributors": [
+    {
+      "name": "Daniel Zlotin",
+      "email": "zlotindaniel@gmail.com"
+    },
+    {
+      "name": "Yedidya Kennard",
+      "email": "yedidyak@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "invariant": "2.2.0",
+    "keymirror": "0.1.1"
+  },
+  "description": "React Native WebView Javascript Bridge - updated",
+  "directories": {
+    "example": "examples",
+    "lib": "webview-bridge"
+  },
+  "homepage": "https://github.com/wix/react-native-webview-bridge",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "webview-bridge"
+  ],
+  "license": "MIT",
+  "main": "webview-bridge",
+  "name": "react-native-webview-bridge-updated",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wix/react-native-webview-bridge.git"
+  },
+  "scripts": {
+    "build": ":",
+    "release": "npm version patch && npm publish && git push",
+    "test": ":"
+  },
+  "version": "1.0.9"
+}
